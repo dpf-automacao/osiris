@@ -24,7 +24,7 @@ Dado("que gostaria de visualizar o sonar") do
     dados_siproquim = siproquim_sonar.loading url_siproquim_sonar, siproquim_sistema
  
     #salvando arquivo csv
-    sonar = 'dados_sistema_sonar.csv'
+    sonar = 'sonar.csv'
     info = "#{dados_miner}\n#{dados_siscaer}\n#{dados_siproquim}"
     salvar.salvar_dados(sonar, info)
 
