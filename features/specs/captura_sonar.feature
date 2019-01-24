@@ -2,6 +2,6 @@
 
 @sonar
 
-Funcionalidade: Capitura
-Cenario: Capiturar dados do sanar
+Funcionalidade: Captura
+Cenario: Capturar dados do sonar
 Dado que gostaria de visualizar o sonar
